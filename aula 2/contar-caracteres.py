@@ -3,4 +3,3 @@ def contar_caracteres(texto):
 
 frase=input('Digite uma frase: ')
 print('A frase tem', contar_caracteres(frase), 'caracteres.')
-
